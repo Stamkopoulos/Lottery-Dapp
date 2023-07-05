@@ -1,0 +1,86 @@
+html {
+  background-color: #212529;
+}
+body {
+  background-color: #212529;
+  color: #fff;
+}
+
+.container {
+  margin-top: 0px;
+}
+
+.header {
+  border-bottom: 1px solid #3b414d;
+  padding: 20px;
+  margin-left: 2%;
+}
+
+.sidenav {
+  background-color: #343a40;
+  color: #fff;
+  padding: 40px;
+}
+
+.sidenav a {
+  color: #fff;
+}
+
+.sidenav a:hover {
+  color: #17a2b8;
+}
+
+.item {
+  background-color: #343a40;
+  color: #fff;
+  padding: 0px;
+  margin-bottom: 0px;
+}
+
+.item h5 {
+  display: block;
+}
+.card {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.card img {
+  height: 160px;
+  width: 200px;
+  overflow: hidden;
+  object-fit: cover;
+  border-radius: 5%;
+  margin-top: 0%;
+}
+
+.item input[type="number"] {
+  text-align: center;
+}
+
+.item button {
+  background-color: #17a2b8;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.item button:hover {
+  background-color: #138496;
+}
+
+.item hr {
+  border-color: #17a2b8;
+}
+
+label {
+  color: #fff;
+}
+p {
+  color: #fff;
+}
