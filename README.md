@@ -9,7 +9,7 @@ Metamask Account: You will need to have a Metamask account to participate in the
 Select Sepolia Network: Once you have Metamask installed and logged in, make sure you have selected the Sepolia network. The Sepolia network is where the lottery contract resides and where the transactions will take place. To select the Sepolia network, click on the network dropdown in the Metamask extension and choose "Sepolia" or custom RPC.
 
 Live Demo
-You can access the live demo of the Web3 Lottery App here (https://stamkopoulos.github.io/my-app/). Please note that the demo is hosted on GitHub Pages, and it requires the Metamask extension with a connected account on the Sepolia network.
+You can access the live demo of the Web3 Lottery App [here](https://stamkopoulos.github.io/my-app/). Please note that the demo is hosted on GitHub Pages, and it requires the Metamask extension with a connected account on the Sepolia network.
 
 Development
 If you are interested in the development aspects of this project, you can find the source code and further details on the GitHub repository: https://github.com/stamkopoulos/my-app
